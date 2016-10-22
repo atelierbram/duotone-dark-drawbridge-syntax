@@ -1,12 +1,12 @@
 {
   "name": "duotone-dark-drawbridge-syntax",
   "theme": "syntax",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "A dark DuoTone syntax theme",
   "keywords": [
     "dark",
-    "purple",
-    "gold",
+    "blue",
+    "turquoise",
     "duotone",
     "syntax"
   ],
