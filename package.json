@@ -1,7 +1,7 @@
 {
   "name": "duotone-dark-drawbridge-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A dark DuoTone syntax theme",
   "keywords": [
     "dark",
@@ -13,6 +13,6 @@
   "repository": "https://github.com/atelierbram/duotone-dark-drawbridge-syntax",
   "license": "MIT",
   "engines": {
-    "atom": ">1.0.0"
+    "atom": ">=1.13.0 <2.0.0"
   }
 }
